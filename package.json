@@ -1,13 +1,12 @@
 {
   "name": "portafolio-hernan",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Portfolio web Hernan Ureta",
+  "main": "server.js",
   "scripts": {
-  "start": "node server.js"
-}
-  "keywords": [],
-  "author": "",
+    "start": "node server.js"
+  },
+  "author": "Hernan Ureta",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
